@@ -1,7 +1,7 @@
 {
-  "name": "Dapp Store",
-  "short_name": "Dapp Store",
-  "description": "Dapp Store",
+  "name": "Dapp Stizzy",
+  "short_name": "Dapp Stizzy",
+  "description": "App Store PWA Clone",
   "lang": "en-US",
   "start_url": "/",
   "display": "standalone",
