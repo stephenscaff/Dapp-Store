@@ -8,6 +8,7 @@
   --f7-navbar-tablet-height: 50px;
   --f7-list-item-padding-horizontal: 20px;
   --f7-block-padding-horizontal: 20px;
+  --f7-tabbar-labels-height: 56px;
   @media (min-width: 768px) and (min-height: 600px) {
     --f7-tabbar-label-font-size: 14px;
   }
@@ -128,4 +129,10 @@ html.theme-dark.with-modal-popup-push .framework7-root > .views:after {
   align-items: center;
   justify-content: center;
   --f7-preloader-size: 28px;
+}
+
+.ios .tabbar-labels .tab-link,
+.ios .tabbar-labels .link {
+  padding-top: 8px;
+  padding-bottom: 8px;
 }
